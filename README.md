@@ -1,2 +1,2 @@
-# Ultimate-JS-
+# Ultimate-JS
 code for somethings
